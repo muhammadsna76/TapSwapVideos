@@ -1,14 +1,14 @@
 # TapSwapVideos
-Join my Telegram @ZAIBITECH  ###This script will help you to complete all of your cinema video tasks.
+Join my Telegram https://t.me/ZAIBITECH  ###This script will help you to complete all of your cinema video tasks.
 
-**TapSwapVideos** is a simple tool designed to automatically enter YouTube cinema codes for easy access to various video features. The repository includes a **Tampermonkey** script that you can import and run to automate the process.
+**TapSwapVideos** is a simple tool designed to automatically enter YouTube cinema codes for easy access to various video features. The repository includes a **Tampermonkey/Violentmonkey** script that you can import and run to automate the process.
 
 ---
 
 ## Features
 
 - Automatically enters YouTube cinema codes.
-- Includes a **Tampermonkey** script to simplify the process.
+- Includes a **Tampermonkey/Violentmonkey** script to simplify the process.
 - Works with a browser extension for easy setup.
 
 ---
@@ -25,14 +25,16 @@ Follow these steps to set up and use TapSwapVideos:
 - Click on **Reload**.
 
 ### 3. Copy the Text
-- After reloading, the page should display a "Not Loaded" error and a link below it.
+- After reloading, the page should display a "Web Page Not Available" error and a link below it.
 - **Copy all the text**, including the "Web Page Not Available"  message but you have to remove it.
 
 ### 4. Send the Text to Your PC
-- Send the copied text to your PC, or android and open the link in your browser (To use it in android,use misses browser).
+- Send the copied text to your PC, or android and open the link in your browser (To use it in android,use misses/kivi browser).
 
-### 5. Install Tampermonkey Extension
+### 5. Install Tampermonkey/Violentmonkey Extension
 - If you don’t have it yet, install **Tampermonkey** from [Chrome Web Store](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en).
+And for Android, Download **Violentmonkey** from [Chrome Web Store](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
+
 
 ### 6. Add the Tampermonkey Script
 - Open the Tampermonkey plugin settings.
