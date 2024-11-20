@@ -1,5 +1,9 @@
 # TapSwapVideos
-Join my Telegram https://t.me/ZAIBITECH  ###This script will help you to complete all of your cinema video tasks.
+**Join my Telegram** https://t.me/ZAIBITECH
+**Watch Tutorial video and don't forget to subscribe my channel**
+https://youtu.be/lBiLtUeshuk
+
+###This script will help you to complete all of your cinema video tasks.
 
 **TapSwapVideos** is a simple tool designed to automatically enter YouTube cinema codes for easy access to various video features. The repository includes a **Tampermonkey/Violentmonkey** script that you can import and run to automate the process.
 
